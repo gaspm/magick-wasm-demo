@@ -1,0 +1,1 @@
+# magick-wasm-demo
